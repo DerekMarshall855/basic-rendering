@@ -8,7 +8,8 @@ Read through and learned how ray tracing works, then created the ray tracer with
 Improve my C++ abilities and learn more about computer graphics.
 
 ## To Run
-Use command: c++ -o raytracer -O3 -Wall raytracer.cpp 
-Then use command: raytracer > raytracer.ppm
+Use commands: 
+- c++ -o raytracer -O3 -Wall raytracer.cpp
+- raytracer > raytracer.ppm
 
 This creates a ppm file with the result, open using gimp
